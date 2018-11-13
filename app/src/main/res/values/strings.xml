@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson 3 Task 1</string>
+    <string name="right_guy">2</string>
+    <string name="left_guy">1</string>
+    <string name="send_text">SEND</string>
+    <string name="message">message</string>
+    <string name="left_message">left message</string>
+    <string name="right_message">right message</string>
+    <string name="left_sender">left sender</string>
+    <string name="your_message">your message</string>
+</resources>
